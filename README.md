@@ -2,7 +2,7 @@
 
 Este repositorio contiene el resultados del ejercicio "software interesante" del Equipo 7 ("Los olvidados").
 
-* **Stacks** lo voy a usar para el filtrado, ensamblado *de novo*, llamado de los SNPs y estadísticos de genética de poblaciones. Con datos de secuenciación provenientes de poblaciones cultivadas y silvestres de Physalis philadelphica. Los archivos input para este programa son FASTQ.
+* **Stacks** lo voy a usar para el filtrado, ensamblado *de novo*, llamado de los SNPs y estadísticos de genética de poblaciones. Con datos de secuenciación provenientes de poblaciones cultivadas y silvestres de *Physalis philadelphica*. Los archivos input para este programa son FASTQ.
 
 [Manual de Stacks](http://catchenlab.life.illinois.edu/stacks/manual/)
 
