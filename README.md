@@ -10,9 +10,9 @@ Este repositorio contiene el resultados del ejercicio "software interesante" del
 
 * **Trimmomatic**
 
-[Manual de Trimmomatic] (http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
+[Manual de Trimmomatic](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
 
-[Trimmomatic: a flexible trimmer for Illumina sequence data] (https://academic.oup.com/bioinformatics/article/30/15/2114/2390096)
+[Trimmomatic: a flexible trimmer for Illumina sequence data](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096)
 
 Integrantes del equipo:
 * Nombre completo persona 1. **Luis Arturo Escobedo Morales**
