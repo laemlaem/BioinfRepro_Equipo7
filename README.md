@@ -8,11 +8,11 @@ Este repositorio contiene el resultados del ejercicio "software interesante" del
 
 [N. Rochette & J. Catchen. Deriving genotypes from RAD-seq short-read data using Stacks. Nature Protocols. 2017.](https://www.nature.com/articles/nprot.2017.123)
 
-* **Trimmomatic**
+* **Trimmomatic** Programa para la remoción de adaptadores y lecturas de baja calidad para datos obtenidos por secuenciación de tipo Illumina. Los archivos imput también son FASTQ o FASTQ.GZ.
 
 [Manual de Trimmomatic](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
 
-[Trimmomatic: a flexible trimmer for Illumina sequence data](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096)
+[Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 2014.](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096)
 
 Integrantes del equipo:
 * Nombre completo persona 1. **Luis Arturo Escobedo Morales**
